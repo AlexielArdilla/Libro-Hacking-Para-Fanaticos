@@ -1,3 +1,5 @@
+![`Portada`](Portada_hackiing.jpg)
+
 # Hacking para fanáticos
 ## Alejandro G Vera
 
@@ -16552,3 +16554,5 @@ Ahora empieza tu verdadera aventura.
 ---
 
 ### Autor: Alejandro G Vera
+
+## [Descargar!](Hacking%20para%20fanáticos%20A%20G%20V.pdf)
